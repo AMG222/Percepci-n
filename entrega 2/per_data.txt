@@ -1,0 +1,231 @@
+MULTINOMIAL
+
+error de entrenamiento 17.400000%, con epsilon 0.000000001
+error de entrenamiento 17.411111%, con epsilon 0.000000010
+error de entrenamiento 17.420370%, con epsilon 0.000000010
+error de entrenamiento 17.433333%, con epsilon 0.000000100
+error de entrenamiento 17.490741%, con epsilon 0.000001000
+error de entrenamiento 17.640741%, con epsilon 0.000010000
+error de entrenamiento 18.129630%, con epsilon 0.000100000
+error de entrenamiento 20.300000%, con epsilon 0.001000000
+error de entrenamiento 29.020370%, con epsilon 0.010000000
+error de entrenamiento 36.033333%, con epsilon 0.100000000
+
+**Fin de entrenamiento ahora error de evaluación**
+
+error de evaluación 17.850000%, con epsilon 0.0000000001
+error de evaluación 17.850000%, con epsilon 0.0000000010
+error de evaluación 17.850000%, con epsilon 0.0000000100
+error de evaluación 17.900000%, con epsilon 0.0000001000
+error de evaluación 17.916667%, con epsilon 0.0000010000
+error de evaluación 18.000000%, con epsilon 0.0000100000
+error de evaluación 18.716667%, con epsilon 0.0001000000
+error de evaluación 20.783333%, con epsilon 0.0010000000
+error de evaluación 29.083333%, con epsilon 0.0100000000
+error de evaluación 35.666667%, con epsilon 0.1000000000
+
+error multinomial con el mejor epsilon(0.00000001): 16.360000%
+
+GAUSIANO
+
+error de entrenamiento 19.151852%, con alpha 0.000000001
+error de entrenamiento 19.066667%, con alpha 0.000000010
+error de entrenamiento 18.287037%, con alpha 0.000000100
+error de entrenamiento 13.424074%, con alpha 0.000001000
+error de entrenamiento  5.598148%, con alpha 0.000010000
+error de entrenamiento  3.920370%, con alpha 0.000100000
+error de entrenamiento  5.114815%, con alpha 0.001000000
+error de entrenamiento  7.588889%, con alpha 0.010000000
+error de entrenamiento  8.900000%, con alpha 0.100000000
+error de entrenamiento 14.707407%, con alpha 0.900000000
+
+**Fin de entrenamiento ahora error de evaluación**
+
+error de evaluacion 19.650000%, con alpha 0.000000001
+error de evaluacion 19.550000%, con alpha 0.000000010
+error de evaluacion 18.933333%, con alpha 0.000000100
+error de evaluacion 14.083333%, con alpha 0.000001000
+error de evaluacion  6.316667%, con alpha 0.000010000
+error de evaluacion  4.266667%, con alpha 0.000100000
+error de evaluacion  6.383333%, con alpha 0.001000000
+error de evaluacion 10.000000%, con alpha 0.010000000
+error de evaluacion 11.966667%, con alpha 0.100000000
+error de evaluacion 18.683333%, con alpha 0.900000000
+
+error de evaluacion 4.416667%, con alpha 0.00005
+error de evaluacion 4.383333%, con alpha 0.00006
+error de evaluacion 4.216667%, con alpha 0.00007
+error de evaluacion 4.166667%, con alpha 0.00008
+error de evaluacion 4.216667%, con alpha 0.00009
+error de evaluacion 4.266667%, con alpha 0.00010
+error de evaluacion 4.566667%, con alpha 0.00020
+error de evaluacion 5.000000%, con alpha 0.00030
+error de evaluacion 5.316667%, con alpha 0.00040
+error de evaluacion 5.516667%, con alpha 0.00050
+
+error de evaluacion 4.190000, con alpha 0.000080
+
+error gausiano con el mejor alpha(0.0001): 4.18%
+
+GAUSSIANO+PCA
+
+Comienzo de alfa 0.900000
+error gausiano con dimension 1.000000 y error 69.100000%
+error gausiano con dimension 5.000000 y error 27.850000%
+error gausiano con dimension 30.000000 y error 4.700000%
+error gausiano con dimension 40.000000 y error 4.683333%
+error gausiano con dimension 50.000000 y error 4.566667%
+error gausiano con dimension 100.000000 y error 4.716667%
+error gausiano con dimension 150.000000 y error 5.383333%
+error gausiano con dimension 200.000000 y error 5.916667%
+error gausiano con dimension 300.000000 y error 7.400000%
+error gausiano con dimension 500.000000 y error 13.516667%
+error gausiano con dimension 700.000000 y error 18.633333%
+Comienzo de alfa 0.100000
+error gausiano con dimension 1.000000 y error 69.166667%
+error gausiano con dimension 5.000000 y error 28.300000%
+error gausiano con dimension 30.000000 y error 6.150000%
+error gausiano con dimension 40.000000 y error 6.250000%
+error gausiano con dimension 50.000000 y error 6.250000%
+error gausiano con dimension 100.000000 y error 6.866667%
+error gausiano con dimension 150.000000 y error 7.850000%
+error gausiano con dimension 200.000000 y error 8.450000%
+error gausiano con dimension 300.000000 y error 9.500000%
+error gausiano con dimension 500.000000 y error 11.433333%
+error gausiano con dimension 700.000000 y error 11.966667%
+Comienzo de alfa 0.010000
+error gausiano con dimension 1.000000 y error 69.233333%
+error gausiano con dimension 5.000000 y error 28.600000%
+error gausiano con dimension 30.000000 y error 6.400000%
+error gausiano con dimension 40.000000 y error 6.650000%
+error gausiano con dimension 50.000000 y error 6.616667%
+error gausiano con dimension 100.000000 y error 7.300000%
+error gausiano con dimension 150.000000 y error 8.100000%
+error gausiano con dimension 200.000000 y error 8.533333%
+error gausiano con dimension 300.000000 y error 9.016667%
+error gausiano con dimension 500.000000 y error 9.866667%
+error gausiano con dimension 700.000000 y error 10.000000%
+Comienzo de alfa 0.001000
+error gausiano con dimension 1.000000 y error 69.383333%
+error gausiano con dimension 5.000000 y error 28.533333%
+error gausiano con dimension 30.000000 y error 6.050000%
+error gausiano con dimension 40.000000 y error 5.816667%
+error gausiano con dimension 50.000000 y error 5.683333%
+error gausiano con dimension 100.000000 y error 5.616667%
+error gausiano con dimension 150.000000 y error 5.866667%
+error gausiano con dimension 200.000000 y error 5.883333%
+error gausiano con dimension 300.000000 y error 6.116667%
+error gausiano con dimension 500.000000 y error 6.350000%
+error gausiano con dimension 700.000000 y error 6.383333%
+Comienzo de alfa 0.000100
+error gausiano con dimension 1.000000 y error 69.400000%
+error gausiano con dimension 5.000000 y error 28.333333%
+error gausiano con dimension 30.000000 y error 5.183333%
+error gausiano con dimension 40.000000 y error 4.933333%
+error gausiano con dimension 50.000000 y error 4.683333%
+error gausiano con dimension 100.000000 y error 4.266667%
+error gausiano con dimension 150.000000 y error 4.200000%
+error gausiano con dimension 200.000000 y error 4.233333%
+error gausiano con dimension 300.000000 y error 4.250000%
+error gausiano con dimension 500.000000 y error 4.266667%
+error gausiano con dimension 700.000000 y error 4.266667%
+Comienzo de alfa 0.000010
+error gausiano con dimension 1.000000 y error 69.550000%
+error gausiano con dimension 5.000000 y error 29.883333%
+error gausiano con dimension 30.000000 y error 7.466667%
+error gausiano con dimension 40.000000 y error 6.883333%
+error gausiano con dimension 50.000000 y error 6.566667%
+error gausiano con dimension 100.000000 y error 6.466667%
+error gausiano con dimension 150.000000 y error 6.350000%
+error gausiano con dimension 200.000000 y error 6.300000%
+error gausiano con dimension 300.000000 y error 6.316667%
+error gausiano con dimension 500.000000 y error 6.316667%
+error gausiano con dimension 700.000000 y error 6.316667%
+Comienzo de alfa 0.000001
+error gausiano con dimension 1.000000 y error 69.666667%
+error gausiano con dimension 5.000000 y error 35.466667%
+error gausiano con dimension 30.000000 y error 15.383333%
+error gausiano con dimension 40.000000 y error 14.900000%
+error gausiano con dimension 50.000000 y error 14.616667%
+error gausiano con dimension 100.000000 y error 14.166667%
+error gausiano con dimension 150.000000 y error 14.116667%
+error gausiano con dimension 200.000000 y error 14.100000%
+error gausiano con dimension 300.000000 y error 14.083333%
+error gausiano con dimension 500.000000 y error 14.083333%
+error gausiano con dimension 700.000000 y error 14.083333%
+Comienzo de alfa 0.0000001
+error gausiano con dimension 1.000000 y error 69.700000%
+error gausiano con dimension 5.000000 y error 37.150000%
+error gausiano con dimension 30.000000 y error 19.733333%
+error gausiano con dimension 40.000000 y error 19.433333%
+error gausiano con dimension 50.000000 y error 19.066667%
+error gausiano con dimension 100.000000 y error 19.000000%
+error gausiano con dimension 150.000000 y error 19.000000%
+error gausiano con dimension 200.000000 y error 18.950000%
+error gausiano con dimension 300.000000 y error 18.916667%
+error gausiano con dimension 500.000000 y error 18.933333%
+error gausiano con dimension 700.000000 y error 18.933333%
+Comienzo de alfa 0.00000001
+error gausiano con dimension 1.000000 y error 69.716667%
+error gausiano con dimension 5.000000 y error 37.250000%
+error gausiano con dimension 30.000000 y error 20.250000%
+error gausiano con dimension 40.000000 y error 19.833333%
+error gausiano con dimension 50.000000 y error 19.816667%
+error gausiano con dimension 100.000000 y error 19.550000%
+error gausiano con dimension 150.000000 y error 19.566667%
+error gausiano con dimension 200.000000 y error 19.550000%
+error gausiano con dimension 300.000000 y error 19.550000%
+error gausiano con dimension 500.000000 y error 19.550000%
+error gausiano con dimension 700.000000 y error 19.550000%
+Comienzo de alfa 0.000000001
+error gausiano con dimension 1.000000 y error 69.716667%
+error gausiano con dimension 5.000000 y error 37.250000%
+error gausiano con dimension 30.000000 y error 20.333333%
+error gausiano con dimension 40.000000 y error 19.900000%
+error gausiano con dimension 50.000000 y error 19.850000%
+error gausiano con dimension 100.000000 y error 19.616667%
+error gausiano con dimension 150.000000 y error 19.650000%
+error gausiano con dimension 200.000000 y error 19.666667%
+error gausiano con dimension 300.000000 y error 19.666667%
+error gausiano con dimension 500.000000 y error 19.650000%
+error gausiano con dimension 700.000000 y error 19.650000%
+
+
+-----------------------1er perfilado---------------------
+
+error gausiano con dimension 125.000000 y error 4.216667%
+error gausiano con dimension 135.000000 y error 4.250000%
+error gausiano con dimension 140.000000 y error 4.250000%
+error gausiano con dimension 145.000000 y error 4.200000%
+error gausiano con dimension 150.000000 y error 4.200000%
+error gausiano con dimension 155.000000 y error 4.200000%
+error gausiano con dimension 160.000000 y error 4.216667%
+error gausiano con dimension 165.000000 y error 4.233333%
+error gausiano con dimension 170.000000 y error 4.233333%
+error gausiano con dimension 175.000000 y error 4.183333%
+error gausiano con dimension 180.000000 y error 4.216667%
+
+----------------------2o perfilado-----------------------
+error gausiano con dimension 170.000000 y error 4.233333%
+error gausiano con dimension 171.000000 y error 4.233333%
+error gausiano con dimension 172.000000 y error 4.216667%
+error gausiano con dimension 173.000000 y error 4.150000%
+error gausiano con dimension 174.000000 y error 4.183333%
+error gausiano con dimension 175.000000 y error 4.183333%
+error gausiano con dimension 176.000000 y error 4.183333%
+error gausiano con dimension 177.000000 y error 4.200000%
+error gausiano con dimension 178.000000 y error 4.216667%
+error gausiano con dimension 179.000000 y error 4.216667%
+error gausiano con dimension 180.000000 y error 4.216667%
+
+error gausiano con el mejor alpha(0.0001) y el mejor numero 
+de dimensiones según pca(173): 4.11%
+
+40 ->4.18
+50 ->3.94
+55 ->4.05
+60 ->4.12
+100->4.02
+150->4.11
+173->4.11
+
